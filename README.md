@@ -26,7 +26,7 @@ or just do this command (on Linux)
 sudo dd if=Netbot_linux.iso of=/dev/sdX bs=4M status=progress oflag=sync #it will format your flash and be carefully with the name
 
 ```
-Download : https://github.com/arwanddlearmw/Netboot-linux/releases/tag/v0.1
+Download : https://github.com/arwanddlearmw/Netboot-linux/releases/tag/v0.2
 # License
 its GPL v3.0
 https://github.com/arwanddlearmw/Netboot-linux/blob/main/License
