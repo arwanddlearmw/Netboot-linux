@@ -27,9 +27,9 @@ sudo dd if=Netbot_linux.iso of=/dev/sdX bs=4M status=progress oflag=sync #it wil
 
 ```
 
-Download : https://github.com/arwanddlearmw/Netboot-linux/releases/tag/v0.2
-=======
-Download : https://github.com/arwanddlearmw/Netboot-linux/releases/tag/v0.1
+Download :
+ https://github.com/arwanddlearmw/Netboot-linux/releases/tag/v0.2
+
 # Fast wiki
 to open an ethernet you must know what name your NIC
 ```bash
